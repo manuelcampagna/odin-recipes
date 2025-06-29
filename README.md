@@ -7,10 +7,9 @@ A simple project useful to learn the basics of HTML through the crreation of a s
 -HTML structure
 -Simple navigation
 
-## Preview
-
 
 ## Feedback
+It was a really nice project that helped me to gain more confidence with HTML.
 
 
 ## Author 
